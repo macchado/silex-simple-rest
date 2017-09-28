@@ -1,6 +1,7 @@
 vendor
 .DS_Store
 app/logs/*.log
+storage
 *~
 .idea
 app.db
