@@ -5,7 +5,7 @@ use Silex\Application;
 use Silex\Provider\DoctrineServiceProvider;
 use App\Services\NotesService;
 
-
+//esta classe estende a classe PHPUnit_Framework_TestCase
 class NotesServiceTest extends \PHPUnit_Framework_TestCase
 {
 
