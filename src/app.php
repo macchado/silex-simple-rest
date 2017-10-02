@@ -14,6 +14,7 @@ use Carbon\Carbon;
 
 date_default_timezone_set('Europe/London');
 
+//Definindo a constante do path
 define("ROOT_PATH", __DIR__ . "/..");
 
 //handling CORS preflight request
